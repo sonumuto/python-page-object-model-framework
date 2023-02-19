@@ -1,6 +1,5 @@
 import unittest
 from splinter import Browser
-from pages.base_page import BasePage
 
 
 class BaseTest(unittest.TestCase):
